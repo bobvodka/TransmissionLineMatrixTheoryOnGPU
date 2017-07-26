@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "OGL TLM on GPU", "OGL TLM on GPU\OGL TLM on GPU.vcproj", "{E9AE5AC4-C512-4CC2-AF19-294B8CEF3C8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9AE5AC4-C512-4CC2-AF19-294B8CEF3C8A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9AE5AC4-C512-4CC2-AF19-294B8CEF3C8A}.Debug|Win32.Build.0 = Debug|Win32
+		{E9AE5AC4-C512-4CC2-AF19-294B8CEF3C8A}.Release|Win32.ActiveCfg = Release|Win32
+		{E9AE5AC4-C512-4CC2-AF19-294B8CEF3C8A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
